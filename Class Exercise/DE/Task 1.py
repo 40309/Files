@@ -4,7 +4,9 @@
 import pickle
 
 with open ("task 1.bat" , mode = "wb") as my_file:
+    user = []
     user_name = input("Please enter our full name: ")
-    user_dob = int(input("Please enter your date of birth (YYYY-MM-DD): "))
-    pickle.dump(user_name, my_file)
-    pickle.dump(user_dob, my_file)
+    user.append(user_name)
+    user_dob = input("Please enter your date of birth (YYYY-MM-DD): ")
+    user.append(user_dob)
+    pickle.dump(user, my_file)
