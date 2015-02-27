@@ -73,15 +73,15 @@ You should do the following for each exercise you attempt:
 ###Revision Exercises
 Attempt these tasks if you need to build your confidence and understanding of file handling.
 
-1. Write a program that reads in 5 lines of text the user types in at the keyboard. As each line is typed in, the program should write the line to a text file.
-2. Write a program that reads lines of text from a text file and displays them to the user. You can create a text file in any text editor. Save it in the same folder as the code for the program. Remember to check for the end of the file.
+1. Write a program that reads in 5 lines of text the user types in at the keyboard. As each line is typed in, the program should write the line to a text file.**Done**
+2. Write a program that reads lines of text from a text file and displays them to the user. You can create a text file in any text editor. Save it in the same folder as the code for the program. Remember to check for the end of the file.**Done**
 
 ###Development Exercises
 Attempt these tasks if you are confident in your understanding but feel you need more practice
 
-1. Write a program that reads a name and date of birth typed in at the keyboard and saves it as a list to a binary file.
-2. Extend your program from the exercise above to read in several names and dates of birth. Allow the user to terminate the input by pressing the Enter key without typing in a name.
-3. Write a program that reads the file created in exercise 3 and displays the name and date of birth.
+1. Write a program that reads a name and date of birth typed in at the keyboard and saves it as a list to a binary file.**Done**
+2. Extend your program from the exercise above to read in several names and dates of birth. Allow the user to terminate the input by pressing the Enter key without typing in a name.**Done**
+3. Write a program that reads the file created in exercise 3 and displays the name and date of birth.**Done**
 4. Write a program that reads the file created in exercise 4 and displays the names and dates of birth as a table.
 
 ###Stretch and Challenge Exercises
